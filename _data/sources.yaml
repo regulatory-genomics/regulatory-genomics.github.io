@@ -21,10 +21,6 @@
 - id: doi:10.1126/sciadv.aav3262
   image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
   group: featured
-  buttons:
-    - type: github
-      text: ""
-      link: Taiji-pipeline/Taiji
 
 - id: doi:10.7554/elife.62522
 
@@ -39,10 +35,6 @@
 - id: doi:10.1038/ncomms12249
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
   group: featured
-  buttons:
-    - type: github
-      text: ""
-      link: kaizhang/DBPnet
  
 - id: doi:10.1038/nature24993
 
@@ -61,4 +53,5 @@
 - id: doi:10.1038/ncomms10812
 
 - id: doi:10.1038/s41525-019-0077-8
+
 - id: doi:10.1016/j.ymeth.2010.04.005

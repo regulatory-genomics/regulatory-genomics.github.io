@@ -127,10 +127,6 @@
   link: https://doi.org/gpxx3z
   image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
   group: featured
-  buttons:
-  - type: github
-    text: ''
-    link: Taiji-pipeline/Taiji
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/elife.62522
@@ -267,10 +263,6 @@
   link: https://doi.org/f8wq2r
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
   group: featured
-  buttons:
-  - type: github
-    text: ''
-    link: kaizhang/DBPnet
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature24993
