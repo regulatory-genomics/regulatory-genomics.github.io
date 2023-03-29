@@ -84,33 +84,6 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.cell.2021.10.024
   title: A single-cell atlas of chromatin accessibility in the human genome
   authors:
@@ -130,5 +103,396 @@
   date: '2021-11-01'
   link: https://doi.org/gnh2vb
   image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2022.111630
+  title: Systematic discovery and functional dissection of enhancers needed for cancer
+    cell fitness and proliferation
+  authors:
+  - Poshen B. Chen
+  - Patrick C. Fiaux
+  - Kai Zhang
+  - Bin Li
+  - Naoki Kubo
+  - Shan Jiang
+  - Rong Hu
+  - Emma Rooholfada
+  - Sihan Wu
+  - Mengchi Wang
+  - Wei Wang
+  - Graham McVicker
+  - Paul S. Mischel
+  - Bing Ren
+  publisher: Cell Reports
+  date: '2022-11-01'
+  link: https://doi.org/gr2jft
+  image: https://www.cell.com/cms/attachment/dd685e42-1bfd-4c62-a488-48cc64b0bc04/fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-33785-w
+  title: Systems-biology analysis of rheumatoid arthritis fibroblast-like synoviocytes
+    implicates cell line-specific transcription factor function
+  authors:
+  - Richard I. Ainsworth
+  - Deepa Hammaker
+  - Gyrid Nygaard
+  - Cecilia Ansalone
+  - Camilla Machado
+  - Kai Zhang
+  - Lina Zheng
+  - Lucy Carrillo
+  - Andre Wildberg
+  - Amanda Kuhs
+  - Mattias N. D. Svensson
+  - David L. Boyle
+  - Gary S. Firestein
+  - Wei Wang
+  publisher: Nature Communications
+  date: '2022-10-20'
+  link: https://doi.org/gq4f5r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-021-03604-1
+  title: An atlas of gene regulatory elements in adult mouse cerebrum
+  authors:
+  - Yang Eric Li
+  - Sebastian Preissl
+  - Xiaomeng Hou
+  - Ziyang Zhang
+  - Kai Zhang
+  - Yunjiang Qiu
+  - Olivier B. Poirion
+  - Bin Li
+  - Joshua Chiou
+  - Hanqing Liu
+  - Antonio Pinto-Duarte
+  - Naoki Kubo
+  - Xiaoyu Yang
+  - Rongxin Fang
+  - Xinxin Wang
+  - Jee Yun Han
+  - Jacinta Lucero
+  - Yiming Yan
+  - Michael Miller
+  - Samantha Kuan
+  - David Gorkin
+  - Kyle J. Gaulton
+  - Yin Shen
+  - Michael Nunn
+  - Eran A. Mukamel
+  - M. Margarita Behrens
+  - Joseph R. Ecker
+  - Bing Ren
+  publisher: Nature
+  date: '2021-10-06'
+  link: https://doi.org/gm2vjc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.aav3262
+  title: 'Taiji: System-level identification of key transcription factors reveals
+    transcriptional waves in mouse embryonic development'
+  authors:
+  - Kai Zhang
+  - Mengchi Wang
+  - Ying Zhao
+  - Wei Wang
+  publisher: Science Advances
+  date: '2019-03-01'
+  link: https://doi.org/gpxx3z
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/elife.62522
+  title: Single-cell multiomic profiling of human lungs reveals cell-type-specific
+    and age-dynamic control of SARS-CoV2 host genes
+  authors:
+  - Allen Wang
+  - Joshua Chiou
+  - Olivier B Poirion
+  - Justin Buchanan
+  - Michael J Valdez
+  - Jamie M Verheyden
+  - Xiaomeng Hou
+  - Parul Kudtarkar
+  - Sharvari Narendra
+  - Jacklyn M Newsome
+  - Minzhe Guo
+  - Dina A Faddah
+  - Kai Zhang
+  - Randee E Young
+  - Justinn Barr
+  - Eniko Sajti
+  - Ravi Misra
+  - Heidie Huyck
+  - Lisa Rogers
+  - Cory Poole
+  - Jeffery A Whitsett
+  - Gloria Pryhuber
+  - Yan Xu
+  - Kyle J Gaulton
+  - Sebastian Preissl
+  - Xin Sun
+  - ' '
+  publisher: eLife
+  date: '2020-11-09'
+  link: https://doi.org/gjksd9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.abf1444
+  title: "Cardiac cell type\u2013specific gene regulatory programs and disease risk\
+    \ association"
+  authors:
+  - James D. Hocker
+  - Olivier B. Poirion
+  - Fugui Zhu
+  - Justin Buchanan
+  - Kai Zhang
+  - Joshua Chiou
+  - Tsui-Min Wang
+  - Qingquan Zhang
+  - Xiaomeng Hou
+  - Yang E. Li
+  - Yanxiao Zhang
+  - Elie N. Farah
+  - Allen Wang
+  - Andrew D. McCulloch
+  - Kyle J. Gaulton
+  - Bing Ren
+  - Neil C. Chi
+  - Sebastian Preissl
+  publisher: Science Advances
+  date: '2021-05-14'
+  link: https://doi.org/gr2jfv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-021-21583-9
+  title: Comprehensive analysis of single cell ATAC-seq data with SnapATAC
+  authors:
+  - Rongxin Fang
+  - Sebastian Preissl
+  - Yang Li
+  - Xiaomeng Hou
+  - Jacinta Lucero
+  - Xinxin Wang
+  - Amir Motamedi
+  - Andrew K. Shiau
+  - Xinzhu Zhou
+  - Fangming Xie
+  - Eran A. Mukamel
+  - Kai Zhang
+  - Yanxiao Zhang
+  - M. Margarita Behrens
+  - Joseph R. Ecker
+  - Bing Ren
+  publisher: Nature Communications
+  date: '2021-02-26'
+  link: https://doi.org/gjd74h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1534/genetics.120.303597
+  title: 'Motto: Representing Motifs in Consensus Sequences with Minimum Information
+    Loss'
+  authors:
+  - Mengchi Wang
+  - David Wang
+  - Kai Zhang
+  - Vu Ngo
+  - Shicai Fan
+  - Wei Wang
+  publisher: Genetics
+  date: '2020-10-01'
+  link: https://doi.org/gr2jfw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkz483
+  title: Identification of DNA motifs that regulate DNA methylation
+  authors:
+  - Mengchi Wang
+  - Kai Zhang
+  - Vu Ngo
+  - Chengyu Liu
+  - Shicai Fan
+  - John W Whitaker
+  - Yue Chen
+  - Rizi Ai
+  - Zhao Chen
+  - Jun Wang
+  - Lina Zheng
+  - Wei Wang
+  publisher: Nucleic Acids Research
+  date: '2019-06-25'
+  link: https://doi.org/ggd6hs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms12249
+  title: Systematic identification of protein combinations mediating chromatin looping
+  authors:
+  - Kai Zhang
+  - Nan Li
+  - Richard I. Ainsworth
+  - Wei Wang
+  publisher: Nature Communications
+  date: '2016-07-27'
+  link: https://doi.org/f8wq2r
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature24993
+  title: Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours
+  authors:
+  - J. Justin Milner
+  - Clara Toma
+  - Bingfei Yu
+  - Kai Zhang
+  - Kyla Omilusik
+  - Anthony T. Phan
+  - Dapeng Wang
+  - Adam J. Getzler
+  - Toan Nguyen
+  - Shane Crotty
+  - Wei Wang
+  - Matthew E. Pipkin
+  - Ananda W. Goldrath
+  publisher: Nature
+  date: '2017-12-06'
+  link: https://doi.org/gcm4xz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ni.3706
+  title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell
+    differentiation
+  authors:
+  - Bingfei Yu
+  - Kai Zhang
+  - J Justin Milner
+  - Clara Toma
+  - Runqiang Chen
+  - James P Scott-Browne
+  - Renata M Pereira
+  - Shane Crotty
+  - John T Chang
+  - Matthew E Pipkin
+  - Wei Wang
+  - Ananda W Goldrath
+  publisher: Nature Immunology
+  date: '2017-03-13'
+  link: https://doi.org/f9twpc
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1813565116
+  title: Epigenomic analysis reveals DNA motifs regulating histone modifications in
+    human and mouse
+  authors:
+  - Vu Ngo
+  - Zhao Chen
+  - Kai Zhang
+  - John W. Whitaker
+  - Mengchi Wang
+  - Wei Wang
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-02-12'
+  link: https://doi.org/ggfb5z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkr698
+  title: Signal-induced Brd4 release from chromatin is essential for its role transition
+    from chromatin targeting to transcriptional regulation
+  authors:
+  - Nanping Ai
+  - Xiangming Hu
+  - Feng Ding
+  - Bingfei Yu
+  - Huiping Wang
+  - Xiaodong Lu
+  - Kai Zhang
+  - Yannan Li
+  - Aidong Han
+  - Wen Lin
+  - Runzhong Liu
+  - Ruichuan Chen
+  publisher: Nucleic Acids Research
+  date: '2011-09-02'
+  link: https://doi.org/dqdbbr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/database/bay017
+  title: 'Finding relevant biomedical datasets: the UC San Diego solution for the
+    bioCADDIE Retrieval Challenge'
+  authors:
+  - Wei Wei
+  - Zhanglong Ji
+  - Yupeng He
+  - Kai Zhang
+  - Yuanchi Ha
+  - Qi Li
+  - Lucila Ohno-Machado
+  publisher: Database
+  date: '2018-01-01'
+  link: https://doi.org/gr2jfx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1534/g3.118.200401
+  title: Bayesian Networks Predict Neuronal Transdifferentiation
+  authors:
+  - Richard I Ainsworth
+  - Rizi Ai
+  - Bo Ding
+  - Nan Li
+  - Kai Zhang
+  - Wei Wang
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-07-01'
+  link: https://doi.org/gr2jfz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms10812
+  title: Constructing 3D interaction maps from 1D epigenomes
+  authors:
+  - Yun Zhu
+  - Zhao Chen
+  - Kai Zhang
+  - Mengchi Wang
+  - David Medovoy
+  - John W. Whitaker
+  - Bo Ding
+  - Nan Li
+  - Lina Zheng
+  - Wei Wang
+  publisher: Nature Communications
+  date: '2016-03-10'
+  link: https://doi.org/f8c9h9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41525-019-0077-8
+  title: Integrative analysis with expanded DNA methylation data reveals common key
+    regulators and pathways in cancers
+  authors:
+  - Shicai Fan
+  - Jianxiong Tang
+  - Nan Li
+  - Ying Zhao
+  - Rizi Ai
+  - Kai Zhang
+  - Mengchi Wang
+  - Wei Du
+  - Wei Wang
+  publisher: npj Genomic Medicine
+  date: '2019-02-01'
+  link: https://doi.org/gr2jf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymeth.2010.04.005
+  title: Isolation and functional characterization of P-TEFb-associated factors that
+    control general and HIV-1 transcriptional elongation
+  authors:
+  - Ruichuan Chen
+  - Min Liu
+  - Kai Zhang
+  - Qiang Zhou
+  publisher: Methods
+  date: '2011-01-01'
+  link: https://doi.org/bzkd5q
   plugin: sources.py
   file: sources.yaml

@@ -14,14 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="zhangkai33@westlake.edu.cn"
+  link="zhangkai33@westlake.edu.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(XXX) XXX-XXX"
+  link="+1-XXX-XXX-XXXX"
 %}
 {%
   include button.html

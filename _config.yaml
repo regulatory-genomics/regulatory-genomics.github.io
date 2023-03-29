@@ -1,5 +1,5 @@
 title: Regulatory Genomics Lab
-subtitle: Westlake University
+subtitle: "@Westlake University"
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -45,7 +45,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@regulatory-genomics.com
+email: zhangkai33@westlake.edu.cn
 github: regulatory-genomics
 #twitter: regulatory-genomics
 #instagram: regulatory-genomics
