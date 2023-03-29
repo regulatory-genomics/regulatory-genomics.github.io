@@ -5,11 +5,11 @@ header: images/background.jpg
 footer: images/background.jpg
 links:
   email: zhangkai33@westlake.edu.cn
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-3454-7357
   google-scholar: dV1fNBMAAAAJ
   github: regulatory-genomics
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  #twitter: YourLabHandle
+  #youtube: YourLabChannel
 defaults:
   - scope:
       path: ""
@@ -47,6 +47,6 @@ exclude:
   - CITATION.cff
 email: contact@regulatory-genomics.com
 github: regulatory-genomics
-twitter: regulatory-genomics
-instagram: regulatory-genomics
-youtube: regulatory-genomics
+#twitter: regulatory-genomics
+#instagram: regulatory-genomics
+#youtube: regulatory-genomics
