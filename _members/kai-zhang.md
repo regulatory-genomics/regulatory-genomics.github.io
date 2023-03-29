@@ -1,5 +1,5 @@
 ---
-name: Kai Zhang
+name: Kai Zhang (张垲)
 image: images/photo.jpg
 role: pi
 aliases:

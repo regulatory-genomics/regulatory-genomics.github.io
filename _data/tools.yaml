@@ -1,47 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: SnapATAC2
+  subtitle: A Python/Rust package for single-cell epigenomics analysis
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  link: https://github.com/kaizhang/SnapATAC2
+  description: |
+    SnapATAC2 is the successor of the SnapATAC R package, featuring:
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+      - Faster and less memory usage than the R version and other alternatives, scale to >1M cells.
+      - Blazingly fast preprocessing tools for BAM to fragment files conversion and count matrix generation.
+      - One of the best dimension reduction algorithms for single-cell ATAC data.
+      - End-to-end analysis pipeline, including preprocessing, dimension reduction, clustering, data integration, peak calling, differential analysis, motif analysis, regulatory network analysis.
+      - Seamless integration with other single-cell analysis packages such as scanpy.
+      - Implementation of fully backed AnnData.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+      **To find tutorials and the full APIs, please go to this [website](https://kzhang.org/SnapATAC2/).**
+  repo: kaizhang/SnapATAC2
   tags:
     - software

@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We embrace a multidisciplinary approach to address pressing challenges in Regulatory Genomics.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -38,8 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
-  text="Browse our projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is expanding and we are seeking talented individuals at all levels to join us!
 
 {%
   include button.html

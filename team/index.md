@@ -1,15 +1,15 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We're a team of scientists using computational and quantitative tools to advance our understanding of gene regulation in mammalian cells.
+We believe that collaboration and community are crucial to advancing scientific research in this field.
+We promote a culture of equality within our team, where each member is valued and our differences are recognized and celebrated with respect and admiration.
 
 {% include section.html %}
 
@@ -18,9 +18,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for individuals of all levels and backgrounds to join our team and contribute their unique talents and perspectives.
+Join us today in our mission to uncover the secrets of gene regulation and make a difference in the world of regulatory genomics!
+
+{% include button.html icon="fa-solid fa-users" text="Join the Team" link="join" style="button" %}
 
 {% include section.html %}
 
