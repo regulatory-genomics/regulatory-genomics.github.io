@@ -48,27 +48,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -104,6 +88,15 @@
   link: https://doi.org/gnh2vb
   image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
   group: featured
+  buttons:
+  - type: website
+    link: http://catlas.org/catlas_humanenhancer
+  - type: source
+    text: Code
+    link: https://gitlab.com/kaizhang/hea2
+  - type: data
+    text: Data
+    link: https://data.mendeley.com/datasets/yv4fzv6cnm
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2022.111630
@@ -200,7 +193,12 @@
   publisher: Science Advances
   date: '2019-03-01'
   link: https://doi.org/gpxx3z
+  image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
   group: featured
+  buttons:
+  - type: github
+    text: ''
+    link: Taiji-pipeline/Taiji
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/elife.62522
@@ -335,7 +333,12 @@
   publisher: Nature Communications
   date: '2016-07-27'
   link: https://doi.org/f8wq2r
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
   group: featured
+  buttons:
+  - type: github
+    text: ''
+    link: kaizhang/DBPnet
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature24993
@@ -378,6 +381,7 @@
   publisher: Nature Immunology
   date: '2017-03-13'
   link: https://doi.org/f9twpc
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
   group: featured
   plugin: sources.py
   file: sources.yaml
@@ -495,4 +499,6 @@
   date: '2011-01-01'
   link: https://doi.org/bzkd5q
   plugin: sources.py
+  file: sources.yaml
+plugin: sources.py
   file: sources.yaml

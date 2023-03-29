@@ -1,24 +1,15 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
 - id: doi:10.1016/j.cell.2021.10.024
   image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
   group: featured
+  buttons:
+    - type: website
+      link: http://catlas.org/catlas_humanenhancer
+    - type: source
+      text: Code
+      link: https://gitlab.com/kaizhang/hea2
+    - type: data
+      text: Data
+      link: https://data.mendeley.com/datasets/yv4fzv6cnm
 
 - id: doi:10.1016/j.celrep.2022.111630
   image: https://www.cell.com/cms/attachment/dd685e42-1bfd-4c62-a488-48cc64b0bc04/fx1.jpg
@@ -28,7 +19,12 @@
 - id: doi:10.1038/s41586-021-03604-1
 
 - id: doi:10.1126/sciadv.aav3262
+  image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
   group: featured
+  buttons:
+    - type: github
+      text: ""
+      link: Taiji-pipeline/Taiji
 
 - id: doi:10.7554/elife.62522
 
@@ -41,11 +37,17 @@
 - id: doi:10.1093/nar/gkz483
 
 - id: doi:10.1038/ncomms12249
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
   group: featured
-
+  buttons:
+    - type: github
+      text: ""
+      link: kaizhang/DBPnet
+ 
 - id: doi:10.1038/nature24993
 
 - id: doi:10.1038/ni.3706
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
   group: featured
 
 - id: doi:10.1073/pnas.1813565116
