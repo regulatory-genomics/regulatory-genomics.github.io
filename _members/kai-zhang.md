@@ -5,16 +5,13 @@ role: pi
 aliases:
   - K. Zhang
   - K Zhang
+  - Kai Zhang
 links:
   email: zhangkai33@westlake.edu.cn
   google-scholar: dV1fNBMAAAAJ
   github: kaizhang
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Kai Zhang is an Assistant Professor in the School of Life Sciences and the School of Engineering at Westlake University.
+He earned his Ph.D. in Bioinformatics and Systems Biology from the University of California, San Diego, where he worked with Prof. Wei Wang on gene regulatory networks in mamanlian cells.
+During his postdoctoral research in the lab of Prof. Bing Ren at Universithy of California San Diego, Kai explored single cell epigenomics to develop algorithms that map cis-regulatory elements using single-cell data.

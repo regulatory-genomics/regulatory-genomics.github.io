@@ -3,17 +3,19 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/kaizhang/SnapATAC2
-  description: |
-    SnapATAC2 is the successor of the SnapATAC R package, featuring:
+  description: SnapATAC2 is Python/Rust package for end-to-end single-cell epigenomics analysis, including preprocessing, dimension reduction, clustering, data integration, peak calling, differential analysis, motif analysis, regulatory network analysis, and multimodal analysis.
 
-      - Faster and less memory usage than the R version and other alternatives, scale to >1M cells.
-      - Blazingly fast preprocessing tools for BAM to fragment files conversion and count matrix generation.
-      - One of the best dimension reduction algorithms for single-cell ATAC data.
-      - End-to-end analysis pipeline, including preprocessing, dimension reduction, clustering, data integration, peak calling, differential analysis, motif analysis, regulatory network analysis.
-      - Seamless integration with other single-cell analysis packages such as scanpy.
-      - Implementation of fully backed AnnData.
-
-      **To find tutorials and the full APIs, please go to this [website](https://kzhang.org/SnapATAC2/).**
   repo: kaizhang/SnapATAC2
+  tags:
+    - software
+
+- title: Taiji
+  subtitle: multi-omics bioinformatics pipeline
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/Taiji-pipeline/Taiji
+  description: Taiji is an integrative analysis pipeline for analyzing bulk/single-cell ATAC-seq and RNA-seq data.
+
+  repo: Taiji-pipeline/Taiji
   tags:
     - software

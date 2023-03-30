@@ -23,6 +23,10 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 
 {% include button.html icon="fa-solid fa-users" text="Join the Team" link="join" style="button" %}
 
+
+
+{% comment %}
+
 {% include section.html %}
 
 {% capture content %}
@@ -34,3 +38,5 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% endcomment %}

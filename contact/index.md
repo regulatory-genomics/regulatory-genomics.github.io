@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab locates at the Yunqi campus of Westlake University.
 
 {%
   include button.html
@@ -20,8 +18,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(XXX) XXX-XXX"
-  link="+1-XXX-XXX-XXXX"
+  text="(858) 900-6852"
+  link="+1-858-900-6852"
 %}
 {%
   include button.html
@@ -36,8 +34,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/westlake_university1.png"
 %}
 
 {% endcapture %}
@@ -46,11 +43,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/westlake_university2.png"
 %}
 
 {% endcapture %}
+
+
+{% comment %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
@@ -75,3 +74,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% endcomment %}

@@ -1,9 +1,10 @@
 ---
 ---
 
-# regulatory-genomics's Website
+# Welcome to the front field of Regulatory Genomics
 
-An engaging 1-3 sentence description of your lab.
+We are a team at Westlake University who strive to advance our understanding of gene regulation by
+developing cutting-edge bioinformatics and machine learning algorithms.
 
 {% include section.html %}
 
@@ -34,12 +35,12 @@ We embrace a multidisciplinary approach to address pressing challenges in Regula
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We value scientific rigor, transparency, and reproducibility.
 
 {%
   include button.html
   link="publications"
-  text="See our publications"
+  text="See what we've published"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
