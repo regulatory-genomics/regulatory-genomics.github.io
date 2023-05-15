@@ -31,6 +31,58 @@
     link: https://data.mendeley.com/datasets/yv4fzv6cnm
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1126/sciadv.aav3262
+  title: 'Taiji: System-level identification of key transcription factors reveals
+    transcriptional waves in mouse embryonic development'
+  authors:
+  - Kai Zhang
+  - Mengchi Wang
+  - Ying Zhao
+  - Wei Wang
+  publisher: Science Advances
+  date: '2019-03-01'
+  link: https://doi.org/gpxx3z
+  image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms12249
+  title: Systematic identification of protein combinations mediating chromatin looping
+  authors:
+  - Kai Zhang
+  - Nan Li
+  - Richard I. Ainsworth
+  - Wei Wang
+  publisher: Nature Communications
+  date: '2016-07-27'
+  link: https://doi.org/f8wq2r
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ni.3706
+  title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell
+    differentiation
+  authors:
+  - Bingfei Yu
+  - Kai Zhang
+  - J Justin Milner
+  - Clara Toma
+  - Runqiang Chen
+  - James P Scott-Browne
+  - Renata M Pereira
+  - Shane Crotty
+  - John T Chang
+  - Matthew E Pipkin
+  - Wei Wang
+  - Ananda W Goldrath
+  publisher: Nature Immunology
+  date: '2017-03-13'
+  link: https://doi.org/f9twpc
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
+  group: featured
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.celrep.2022.111630
   title: Systematic discovery and functional dissection of enhancers needed for cancer
     cell fitness and proliferation
@@ -112,21 +164,6 @@
   publisher: Nature
   date: '2021-10-06'
   link: https://doi.org/gm2vjc
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/sciadv.aav3262
-  title: 'Taiji: System-level identification of key transcription factors reveals
-    transcriptional waves in mouse embryonic development'
-  authors:
-  - Kai Zhang
-  - Mengchi Wang
-  - Ying Zhao
-  - Wei Wang
-  publisher: Science Advances
-  date: '2019-03-01'
-  link: https://doi.org/gpxx3z
-  image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
-  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/elife.62522
@@ -251,20 +288,6 @@
   link: https://doi.org/ggd6hs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/ncomms12249
-  title: Systematic identification of protein combinations mediating chromatin looping
-  authors:
-  - Kai Zhang
-  - Nan Li
-  - Richard I. Ainsworth
-  - Wei Wang
-  publisher: Nature Communications
-  date: '2016-07-27'
-  link: https://doi.org/f8wq2r
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
-  group: featured
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/nature24993
   title: Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours
   authors:
@@ -284,29 +307,6 @@
   publisher: Nature
   date: '2017-12-06'
   link: https://doi.org/gcm4xz
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/ni.3706
-  title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell
-    differentiation
-  authors:
-  - Bingfei Yu
-  - Kai Zhang
-  - J Justin Milner
-  - Clara Toma
-  - Runqiang Chen
-  - James P Scott-Browne
-  - Renata M Pereira
-  - Shane Crotty
-  - John T Chang
-  - Matthew E Pipkin
-  - Wei Wang
-  - Ananda W Goldrath
-  publisher: Nature Immunology
-  date: '2017-03-13'
-  link: https://doi.org/f9twpc
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
-  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1813565116
@@ -422,5 +422,41 @@
   publisher: Methods
   date: '2011-01-01'
   link: https://doi.org/bzkd5q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2210991120
+  title: Integrated analysis of single-cell chromatin state and transcriptome identified
+    common vulnerability despite glioblastoma heterogeneity
+  authors:
+  - Ramya Raviram
+  - Anugraha Raman
+  - Sebastian Preissl
+  - Jiangfang Ning
+  - Shaoping Wu
+  - Tomoyuki Koga
+  - Kai Zhang
+  - Cameron W. Brennan
+  - Chenxu Zhu
+  - Jens Luebeck
+  - Kinsey Van Deynze
+  - Jee Yun Han
+  - Xiaomeng Hou
+  - Zhen Ye
+  - Anna K. Mischel
+  - Yang Eric Li
+  - Rongxin Fang
+  - Tomas Baback
+  - Joshua Mugford
+  - Claudia Z. Han
+  - Christopher K. Glass
+  - Cathy L. Barr
+  - Paul S. Mischel
+  - Vineet Bafna
+  - Laure Escoubet
+  - Bing Ren
+  - Clark C. Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-05-08'
+  link: https://doi.org/gr8ck8
   plugin: sources.py
   file: sources.yaml
