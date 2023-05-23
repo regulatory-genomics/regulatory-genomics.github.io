@@ -3,7 +3,7 @@
 
 # Welcome to the front field of Regulatory Genomics
 
-We are a team at Westlake University who strive to advance our understanding of gene regulation by
+We are a team at [Westlake University](https://www.westlake.edu.cn/) who strive to advance our understanding of gene regulation by
 developing cutting-edge bioinformatics and machine learning algorithms.
 
 {% include section.html %}
