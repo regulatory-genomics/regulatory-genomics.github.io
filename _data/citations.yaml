@@ -18,6 +18,7 @@
   publisher: Cell
   date: '2021-11-01'
   link: https://doi.org/gnh2vb
+  _title: A single-cell atlas of chromatin accessibility in the human genome
   image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
   group: featured
   buttons:
@@ -42,6 +43,8 @@
   publisher: Science Advances
   date: '2019-03-01'
   link: https://doi.org/gpxx3z
+  _title: 'Taiji: System-level identification of key transcription factors reveals
+    transcriptional waves in mouse embryonic development'
   image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
   group: featured
   plugin: sources.py
@@ -56,6 +59,7 @@
   publisher: Nature Communications
   date: '2016-07-27'
   link: https://doi.org/f8wq2r
+  _title: Systematic identification of protein combinations mediating chromatin looping
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
   group: featured
   plugin: sources.py
@@ -79,6 +83,8 @@
   publisher: Nature Immunology
   date: '2017-03-13'
   link: https://doi.org/f9twpc
+  _title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T
+    cell differentiation
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
   group: featured
   plugin: sources.py
@@ -104,6 +110,8 @@
   publisher: Cell Reports
   date: '2022-11-01'
   link: https://doi.org/gr2jft
+  _title: Systematic discovery and functional dissection of enhancers needed for cancer
+    cell fitness and proliferation
   image: https://www.cell.com/cms/attachment/dd685e42-1bfd-4c62-a488-48cc64b0bc04/fx1.jpg
   plugin: sources.py
   file: sources.yaml
@@ -458,6 +466,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2023-05-08'
   link: https://doi.org/gr8ck8
-  image: https://www.pnas.org/cms/10.1073/pnas.2210991120/asset/6273923d-2a9f-47b9-8754-eba0ce1efec7/assets/images/large/pnas.2210991120fig06.jpg
+  _title: Integrated analysis of single-cell chromatin state and transcriptome identified
+    common vulnerability despite glioblastoma heterogeneity
   plugin: sources.py
   file: sources.yaml
