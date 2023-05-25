@@ -12,14 +12,14 @@ We believe that collaboration and community are crucial to advancing scientific 
 We promote a culture of equality within our team, where each member is valued and our differences are recognized and celebrated with respect and admiration.
 
 We are currently opening positions for
-[research associate professor](#research-associate-professor),
-[postdoctoral fellow](#postdoctoral-fellow-in-computational-biology),
-[graduate student](#graduate-students), and
-[research assistant/programmer](#research-assistantprogrammer).
+[Research Associate Professor (副研究员)](#research-associate-professor-中文链接),
+[Postdoctoral Fellow (博士后)](#postdoctoral-fellow-in-computational-biology-中文链接),
+[Graduate Student (博士研究生)](#graduate-students), and
+[Research Assistant/Programmer (科研助理/程序员)](#research-assistantprogrammer-中文链接).
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research Associate Professor
+# {% include icon.html icon="fa-solid fa-microscope" %}Research Associate Professor ([中文链接](https://www.westlake.edu.cn/Careers/OpenPositions/202305/t20230522_28495.shtml))
 
 Our lab invites applications for the position of Research Associate Professor in
 [Westlake Laboratory (西湖实验室)](https://www.wllsb.edu.cn/).
@@ -43,7 +43,9 @@ This is a full-time position with a competitive salary and benefits package.
 Interested applicants should submit a cover letter detailing their qualifications and experience, a CV, a statement of research interests and goals, and contact information for three professional references.
 Review of applications will begin immediately and will continue until the position is filled.
 
-# {% include icon.html icon="fa-solid fa-glasses" %}Postdoctoral Fellow in Computational Biology 
+{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-glasses" %}Postdoctoral Fellow in Computational Biology ([中文链接](https://www.westlake.edu.cn/Careers/OpenPositions/202305/t20230522_28494.shtml))
 
 Our research group is seeking highly motivated and skilled computational biologists to join our team as postdoctoral fellows.
 The successful candidate will work on projects focused on the analysis of large-scale single-cell multi-omics data, with a particular emphasis on the development and application of deep learning models.
@@ -80,7 +82,7 @@ We also welcome visiting students, especially those interested in pursuing a Ph.
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-code" %}Research Assistant/Programmer
+# {% include icon.html icon="fa-solid fa-code" %}Research Assistant/Programmer ([中文链接](https://www.westlake.edu.cn/Careers/OpenPositions/202305/t20230522_28496.shtml))
 
 We are seeking highly motivated research assistants to join our computational biology research team.
 The successful candidate will work under the supervision of a senior scientist and contribute to ongoing research projects focused on the development of state-of-the-art computational tools.
