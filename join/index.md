@@ -69,7 +69,7 @@ The successful candidate will work on projects focused on the analysis of large-
 - Ability to work independently and as part of a team in a fast-paced research environment.
 
 This is a full-time position with a competitive salary and benefits package.
-The initial appointment will be for three years, with the possibility of extension based on funding and performance.
+The initial appointment will be for two years, with the possibility of extension based on funding and performance.
 To apply, please submit a cover letter, CV, and contact information for two references.
 
 {% include section.html %}

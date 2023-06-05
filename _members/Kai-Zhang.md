@@ -1,6 +1,6 @@
 ---
 name: Kai Zhang (张垲)
-image: images/KaiZhang.jpg
+image: images/photos/KaiZhang.jpg
 role: pi
 aliases:
   - K. Zhang
