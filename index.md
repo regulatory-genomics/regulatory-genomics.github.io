@@ -27,8 +27,8 @@ We embrace a multidisciplinary approach to address pressing challenges in Regula
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="research"
+  image="images/research.jpg"
   title="Our Research"
   text=text
 %}
@@ -50,7 +50,7 @@ We value scientific rigor, transparency, and reproducibility.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/books.jpg"
   link="publications"
   title="Our Publications"
   flip=true
@@ -75,7 +75,7 @@ Our team is expanding and we are seeking talented individuals at all levels to j
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ants.jpg"
   link="team"
   title="Our Team"
   text=text

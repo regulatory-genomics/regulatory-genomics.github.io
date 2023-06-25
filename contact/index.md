@@ -7,7 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab locates at the Yunqi campus of Westlake University.
+Our lab locates at the Yunqi campus of Westlake University:
+
+Westlake Laboratory 3#410, Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang Province, China    
+中国浙江省杭州市西湖区云栖小镇石龙山街18号, 西湖实验室, 3号楼410
 
 {%
   include button.html
@@ -24,8 +27,8 @@ Our lab locates at the Yunqi campus of Westlake University.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location for easy navigation"
+  link="https://map.baidu.com/poi/%E8%A5%BF%E6%B9%96%E5%AE%9E%E9%AA%8C%E5%AE%A4/@13368202.124999996,3499936.000000002,19z?uid=2c388130d2883a94fea778d0&info_merge=1&isBizPoi=false&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl"
 %}
 
 {% include section.html %}
