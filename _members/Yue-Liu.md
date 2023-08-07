@@ -3,8 +3,6 @@ name: Yue Liu (刘悦)
 image: images/photos/YueLiu.jpg
 role: postdoc
 aliases:
-  - Y. Liu
-  - Y Liu
   - Yue Liu
 links:
   email: yueyueliu@hnu.edu.cn

@@ -3,8 +3,6 @@ name: Yihang Ding (丁一航)
 image: images/photos/YihangDing.jpg
 role: ra
 aliases:
-  - Y. Ding
-  - Y Ding
   - Yihang Ding
 links:
   email: dingyihang@westlake.edu.cn
