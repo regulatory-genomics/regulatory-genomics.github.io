@@ -2,6 +2,15 @@
 # Featured publications #
 #########################
 
+- id: 10.1101/2023.09.11.557221
+  group: featured
+  buttons:
+    - type: website
+      link: https://kzhang.org/SnapATAC2/
+    - type: source
+      text: Code
+      link: https://github.com/kaizhang/SnapATAC2
+
 - id: doi:10.1016/j.cell.2021.10.024
   _title: A single-cell atlas of chromatin accessibility in the human genome
   image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
