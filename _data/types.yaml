@@ -19,8 +19,12 @@ undergrad:
   description: Undergraduate Student
 
 ra:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-user-graduate
   description: Research Assistant
+
+se:
+  icon: fa-solid fa-code
+  description: Software Engineer
 
 mascot:
   icon: fa-solid fa-dog
