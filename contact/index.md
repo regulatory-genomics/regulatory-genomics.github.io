@@ -21,8 +21,8 @@ Westlake Laboratory 3#411, Shilongshan ST #18, Xihu District, Hangzhou, 310024 C
 {%
   include button.html
   type="phone"
-  text="(858) 900-6852"
-  link="+1-858-900-6852"
+  text="0571-87737063"
+  link="+86057187737063"
 %}
 {%
   include button.html

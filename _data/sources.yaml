@@ -2,7 +2,9 @@
 # Featured publications #
 #########################
 
-- id: 10.1101/2023.09.11.557221
+- id: doi:10.1038/s41592-023-02139-9
+  _title: A fast, scalable and versatile tool for analysis of single-cell omics data
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41592/20/12
   group: featured
   buttons:
     - type: website
