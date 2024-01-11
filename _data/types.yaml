@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+vs:
+  icon: fa-solid fa-user-graduate
+  description: Visiting Student
+
 ra:
   icon: fa-solid fa-user-graduate
   description: Research Assistant

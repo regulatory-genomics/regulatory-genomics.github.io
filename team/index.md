@@ -16,8 +16,9 @@ We promote a culture of equality within our team, where each member is valued an
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: ra" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: ra" %}
+{% include list.html data="members" component="portrait" filters="role: vs" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -27,19 +28,12 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 {% include button.html icon="fa-solid fa-users" text="Join the Team" link="join" style="button" %}
 
 
-
-{% comment %}
-
 {% include section.html %}
 
-{% capture content %}
+# Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
-
-{% endcomment %}
+{% include list.html data="alumni" component="portrait" filters="role: postdoc" %}
+{% include list.html data="alumni" component="portrait" filters="role: phd" %}
+{% include list.html data="alumni" component="portrait" filters="role: undergrad" %}
+{% include list.html data="alumni" component="portrait" filters="role: ra" %}
+{% include list.html data="alumni" component="portrait" filters="role: vs" style="small" %}
