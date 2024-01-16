@@ -83,7 +83,7 @@
   plugin: sources.py
   file: sources.yaml
   _title: A single-cell atlas of chromatin accessibility in the human genome
-  image: https://www.cell.com/cms/attachment/1402ad8d-fb44-45f6-b40a-80b2d19b5890/fx1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867420X00250-cov200h.gif
   group: featured
   buttons:
   - type: website
@@ -212,7 +212,7 @@
   file: sources.yaml
   _title: 'Taiji: System-level identification of key transcription factors reveals
     transcriptional waves in mouse embryonic development'
-  image: https://www.science.org/cms/10.1126/sciadv.aav3262/asset/abcd2b69-2c04-4974-8c47-d91371ef0f42/assets/graphic/aav3262-f5.jpeg
+  image: https://www.science.org/cms/asset/7757979b-746e-490b-b3a4-c75f5f7c27d5/sciadv.2019.5.issue-3.largecover.jpg
   group: featured
 - id: doi:10.1038/s41525-019-0077-8
   title: Integrative analysis with expanded DNA methylation data reveals common key
@@ -289,7 +289,7 @@
   file: sources.yaml
   _title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T
     cell differentiation
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fni.3706/MediaObjects/41590_2017_Article_BFni3706_Fig5_HTML.jpg?as=webp
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41590/18/3
   group: featured
 - id: doi:10.1038/nature24993
   title: Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours
@@ -327,7 +327,7 @@
   plugin: sources.py
   file: sources.yaml
   _title: Systematic identification of protein combinations mediating chromatin looping
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12249/MediaObjects/41467_2016_Article_BFncomms12249_Fig2_HTML.jpg?as=webp
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   group: featured
 - id: doi:10.1038/ncomms10812
   title: Constructing 3D interaction maps from 1D epigenomes
@@ -382,6 +382,52 @@
   date: '2011-09-02'
   link: https://doi.org/dqdbbr
   orcid: 0000-0003-3454-7357
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-023-06824-9
+  title: Single-cell analysis of chromatin accessibility in the adult mouse brain
+  authors:
+  - Songpeng Zu
+  - Yang Eric Li
+  - Kangli Wang
+  - Ethan J. Armand
+  - Sainath Mamde
+  - Maria Luisa Amaral
+  - Yuelai Wang
+  - Andre Chu
+  - Yang Xie
+  - Michael Miller
+  - Jie Xu
+  - Zhaoning Wang
+  - Kai Zhang
+  - Bojing Jia
+  - Xiaomeng Hou
+  - Lin Lin
+  - Qian Yang
+  - Seoyeon Lee
+  - Bin Li
+  - Samantha Kuan
+  - Hanqing Liu
+  - Jingtian Zhou
+  - Antonio Pinto-Duarte
+  - Jacinta Lucero
+  - Julia Osteen
+  - Michael Nunn
+  - Kimberly A. Smith
+  - Bosiljka Tasic
+  - Zizhen Yao
+  - Hongkui Zeng
+  - Zihan Wang
+  - Jingbo Shang
+  - M. Margarita Behrens
+  - Joseph R. Ecker
+  - Allen Wang
+  - Sebastian Preissl
+  - Bing Ren
+  publisher: Nature
+  date: '2023-12-13'
+  link: https://doi.org/gs8547
+  _title: Single-cell analysis of chromatin accessibility in the adult mouse brain
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2022.111630
