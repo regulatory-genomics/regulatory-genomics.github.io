@@ -1,7 +1,7 @@
 ---
 name: Jiayi Guo (郭佳亿)
 image: images/photos/JiayiGuo.jpg
-role: vs
+role: visiting-student
 aliases:
   - Jiayi Guo
 links:

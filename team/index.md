@@ -18,7 +18,8 @@ We promote a culture of equality within our team, where each member is valued an
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: ra" %}
-{% include list.html data="members" component="portrait" filters="role: vs" %}
+{% include list.html data="members" component="portrait" filters="role: visiting-scholar" %}
+{% include list.html data="members" component="portrait" filters="role: visiting-student" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

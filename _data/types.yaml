@@ -18,9 +18,13 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-vs:
+visiting-student:
   icon: fa-solid fa-user-graduate
   description: Visiting Student
+
+visiting-scholar:
+  icon: fa-solid fa-graduation-cap
+  description: Visiting Scholar
 
 ra:
   icon: fa-solid fa-user-graduate
