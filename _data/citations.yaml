@@ -10,9 +10,6 @@
   publisher: Nature Methods
   date: '2024-01-08'
   link: https://doi.org/gtcxf4
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
   _title: A fast, scalable and versatile tool for analysis of single-cell omics data
   image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41592/20/12
   group: featured
@@ -22,64 +19,8 @@
   - type: source
     text: Code
     link: https://github.com/kaizhang/SnapATAC2
-- id: doi:10.1101/2024.01.23.576835
-  title: Sensory Input, Sex, and Function Shape Hypothalamic Cell Type Development
-  authors:
-  - Harris S Kaplan
-  - Brandon L Logeman
-  - Kai Zhang
-  - Celine Santiago
-  - Noor Sohail
-  - Serhiy Naumenko
-  - Shannan J Ho Sui
-  - David D Ginty
-  - Bing Ren
-  - Catherine Dulac
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-23'
-  link: https://doi.org/gtfnrg
-  orcid: 0000-0003-3454-7357
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.2210991120
-  title: Integrated analysis of single-cell chromatin state and transcriptome identified
-    common vulnerability despite glioblastoma heterogeneity
-  authors:
-  - Ramya Raviram
-  - Anugraha Raman
-  - Sebastian Preissl
-  - Jiangfang Ning
-  - Shaoping Wu
-  - Tomoyuki Koga
-  - Kai Zhang
-  - Cameron W. Brennan
-  - Chenxu Zhu
-  - Jens Luebeck
-  - Kinsey Van Deynze
-  - Jee Yun Han
-  - Xiaomeng Hou
-  - Zhen Ye
-  - Anna K. Mischel
-  - Yang Eric Li
-  - Rongxin Fang
-  - Tomas Baback
-  - Joshua Mugford
-  - Claudia Z. Han
-  - Christopher K. Glass
-  - Cathy L. Barr
-  - Paul S. Mischel
-  - Vineet Bafna
-  - Laure Escoubet
-  - Bing Ren
-  - Clark C. Chen
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2023-05-08'
-  link: https://doi.org/gr8ck8
-  orcid: 0000-0003-3454-7357
   plugin: sources.py
   file: sources.yaml
-  _title: Integrated analysis of single-cell chromatin state and transcriptome identified
-    common vulnerability despite glioblastoma heterogeneity
 - id: doi:10.1016/j.cell.2021.10.024
   title: A single-cell atlas of chromatin accessibility in the human genome
   authors:
@@ -98,9 +39,6 @@
   publisher: Cell
   date: '2021-11-01'
   link: https://doi.org/gnh2vb
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
   _title: A single-cell atlas of chromatin accessibility in the human genome
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867420X00250-cov200h.gif
   group: featured
@@ -113,108 +51,8 @@
   - type: data
     text: Data
     link: https://data.mendeley.com/datasets/yv4fzv6cnm
-- id: doi:10.1038/s41586-021-03604-1
-  title: An atlas of gene regulatory elements in adult mouse cerebrum
-  authors:
-  - Yang Eric Li
-  - Sebastian Preissl
-  - Xiaomeng Hou
-  - Ziyang Zhang
-  - Kai Zhang
-  - Yunjiang Qiu
-  - Olivier B. Poirion
-  - Bin Li
-  - Joshua Chiou
-  - Hanqing Liu
-  - Antonio Pinto-Duarte
-  - Naoki Kubo
-  - Xiaoyu Yang
-  - Rongxin Fang
-  - Xinxin Wang
-  - Jee Yun Han
-  - Jacinta Lucero
-  - Yiming Yan
-  - Michael Miller
-  - Samantha Kuan
-  - David Gorkin
-  - Kyle J. Gaulton
-  - Yin Shen
-  - Michael Nunn
-  - Eran A. Mukamel
-  - M. Margarita Behrens
-  - Joseph R. Ecker
-  - Bing Ren
-  publisher: Nature
-  date: '2021-10-06'
-  link: https://doi.org/gm2vjc
-  orcid: 0000-0003-3454-7357
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1126/sciadv.abf1444
-  title: "Cardiac cell type\u2013specific gene regulatory programs and disease risk\
-    \ association"
-  authors:
-  - James D. Hocker
-  - Olivier B. Poirion
-  - Fugui Zhu
-  - Justin Buchanan
-  - Kai Zhang
-  - Joshua Chiou
-  - Tsui-Min Wang
-  - Qingquan Zhang
-  - Xiaomeng Hou
-  - Yang E. Li
-  - Yanxiao Zhang
-  - Elie N. Farah
-  - Allen Wang
-  - Andrew D. McCulloch
-  - Kyle J. Gaulton
-  - Bing Ren
-  - Neil C. Chi
-  - Sebastian Preissl
-  publisher: Science Advances
-  date: '2021-05-14'
-  link: https://doi.org/gr2jfv
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1534/genetics.120.303597
-  title: 'Motto: Representing Motifs in Consensus Sequences with Minimum Information
-    Loss'
-  authors:
-  - Mengchi Wang
-  - David Wang
-  - Kai Zhang
-  - Vu Ngo
-  - Shicai Fan
-  - Wei Wang
-  publisher: Genetics
-  date: '2020-10-01'
-  link: https://doi.org/gr2jfw
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/573352
-  title: Identification of DNA motifs that regulate DNA methylation
-  authors:
-  - Mengchi Wang
-  - Kai Zhang
-  - Vu Ngo
-  - Chengyu Liu
-  - Shicai Fan
-  - John W Whitaker
-  - Yue Chen
-  - Rizi Ai
-  - Zhao Chen
-  - Jun Wang
-  - Lina Zheng
-  - Wei Wang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gkv4z6
-  orcid: 0000-0003-3454-7357
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1126/sciadv.aav3262
   title: 'Taiji: System-level identification of key transcription factors reveals
     transcriptional waves in mouse embryonic development'
@@ -226,62 +64,25 @@
   publisher: Science Advances
   date: '2019-03-01'
   link: https://doi.org/gpxx3z
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
   _title: 'Taiji: System-level identification of key transcription factors reveals
     transcriptional waves in mouse embryonic development'
   image: https://www.science.org/cms/asset/7757979b-746e-490b-b3a4-c75f5f7c27d5/sciadv.2019.5.issue-3.largecover.jpg
   group: featured
-- id: doi:10.1038/s41525-019-0077-8
-  title: Integrative analysis with expanded DNA methylation data reveals common key
-    regulators and pathways in cancers
-  authors:
-  - Shicai Fan
-  - Jianxiong Tang
-  - Nan Li
-  - Ying Zhao
-  - Rizi Ai
-  - Kai Zhang
-  - Mengchi Wang
-  - Wei Du
-  - Wei Wang
-  publisher: npj Genomic Medicine
-  date: '2019-02-01'
-  link: https://doi.org/gr2jf2
-  orcid: 0000-0003-3454-7357
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1534/g3.118.200401
-  title: Bayesian Networks Predict Neuronal Transdifferentiation
+- id: doi:10.1038/ncomms12249
+  title: Systematic identification of protein combinations mediating chromatin looping
   authors:
-  - Richard I Ainsworth
-  - Rizi Ai
-  - Bo Ding
+  - Kai Zhang
   - Nan Li
-  - Kai Zhang
+  - Richard I. Ainsworth
   - Wei Wang
-  publisher: G3 Genes|Genomes|Genetics
-  date: '2018-07-01'
-  link: https://doi.org/gr2jfz
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/database/bay017
-  title: 'Finding relevant biomedical datasets: the UC San Diego solution for the
-    bioCADDIE Retrieval Challenge'
-  authors:
-  - Wei Wei
-  - Zhanglong Ji
-  - Yupeng He
-  - Kai Zhang
-  - Yuanchi Ha
-  - Qi Li
-  - Lucila Ohno-Machado
-  publisher: Database
-  date: '2018-01-01'
-  link: https://doi.org/gr2jfx
-  orcid: 0000-0003-3454-7357
+  publisher: Nature Communications
+  date: '2016-07-27'
+  link: https://doi.org/f8wq2r
+  _title: Systematic identification of protein combinations mediating chromatin looping
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
+  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ni.3706
@@ -303,104 +104,10 @@
   publisher: Nature Immunology
   date: '2017-03-13'
   link: https://doi.org/f9twpc
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
   _title: Epigenetic landscapes reveal transcription factors that regulate CD8+ T
     cell differentiation
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41590/18/3
   group: featured
-- id: doi:10.1038/nature24993
-  title: Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours
-  authors:
-  - J. Justin Milner
-  - Clara Toma
-  - Bingfei Yu
-  - Kai Zhang
-  - Kyla Omilusik
-  - Anthony T. Phan
-  - Dapeng Wang
-  - Adam J. Getzler
-  - Toan Nguyen
-  - Shane Crotty
-  - Wei Wang
-  - Matthew E. Pipkin
-  - Ananda W. Goldrath
-  publisher: Nature
-  date: '2017-12-06'
-  link: https://doi.org/gcm4xz
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/ncomms12249
-  title: Systematic identification of protein combinations mediating chromatin looping
-  authors:
-  - Kai Zhang
-  - Nan Li
-  - Richard I. Ainsworth
-  - Wei Wang
-  publisher: Nature Communications
-  date: '2016-07-27'
-  link: https://doi.org/f8wq2r
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-  _title: Systematic identification of protein combinations mediating chromatin looping
-  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
-  group: featured
-- id: doi:10.1038/ncomms10812
-  title: Constructing 3D interaction maps from 1D epigenomes
-  authors:
-  - Yun Zhu
-  - Zhao Chen
-  - Kai Zhang
-  - Mengchi Wang
-  - David Medovoy
-  - John W. Whitaker
-  - Bo Ding
-  - Nan Li
-  - Lina Zheng
-  - Wei Wang
-  publisher: Nature Communications
-  date: '2016-03-10'
-  link: https://doi.org/f8c9h9
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ymeth.2010.04.005
-  title: Isolation and functional characterization of P-TEFb-associated factors that
-    control general and HIV-1 transcriptional elongation
-  authors:
-  - Ruichuan Chen
-  - Min Liu
-  - Kai Zhang
-  - Qiang Zhou
-  publisher: Methods
-  date: '2011-01-01'
-  link: https://doi.org/bzkd5q
-  orcid: 0000-0003-3454-7357
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/nar/gkr698
-  title: Signal-induced Brd4 release from chromatin is essential for its role transition
-    from chromatin targeting to transcriptional regulation
-  authors:
-  - Nanping Ai
-  - Xiangming Hu
-  - Feng Ding
-  - Bingfei Yu
-  - Huiping Wang
-  - Xiaodong Lu
-  - Kai Zhang
-  - Yannan Li
-  - Aidong Han
-  - Wen Lin
-  - Runzhong Liu
-  - Ruichuan Chen
-  publisher: Nucleic Acids Research
-  date: '2011-09-02'
-  link: https://doi.org/dqdbbr
-  orcid: 0000-0003-3454-7357
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-023-06824-9
@@ -498,6 +205,42 @@
   link: https://doi.org/gq4f5r
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41586-021-03604-1
+  title: An atlas of gene regulatory elements in adult mouse cerebrum
+  authors:
+  - Yang Eric Li
+  - Sebastian Preissl
+  - Xiaomeng Hou
+  - Ziyang Zhang
+  - Kai Zhang
+  - Yunjiang Qiu
+  - Olivier B. Poirion
+  - Bin Li
+  - Joshua Chiou
+  - Hanqing Liu
+  - Antonio Pinto-Duarte
+  - Naoki Kubo
+  - Xiaoyu Yang
+  - Rongxin Fang
+  - Xinxin Wang
+  - Jee Yun Han
+  - Jacinta Lucero
+  - Yiming Yan
+  - Michael Miller
+  - Samantha Kuan
+  - David Gorkin
+  - Kyle J. Gaulton
+  - Yin Shen
+  - Michael Nunn
+  - Eran A. Mukamel
+  - M. Margarita Behrens
+  - Joseph R. Ecker
+  - Bing Ren
+  publisher: Nature
+  date: '2021-10-06'
+  link: https://doi.org/gm2vjc
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.7554/elife.62522
   title: Single-cell multiomic profiling of human lungs reveals cell-type-specific
     and age-dynamic control of SARS-CoV2 host genes
@@ -533,6 +276,33 @@
   link: https://doi.org/gjksd9
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1126/sciadv.abf1444
+  title: "Cardiac cell type\u2013specific gene regulatory programs and disease risk\
+    \ association"
+  authors:
+  - James D. Hocker
+  - Olivier B. Poirion
+  - Fugui Zhu
+  - Justin Buchanan
+  - Kai Zhang
+  - Joshua Chiou
+  - Tsui-Min Wang
+  - Qingquan Zhang
+  - Xiaomeng Hou
+  - Yang E. Li
+  - Yanxiao Zhang
+  - Elie N. Farah
+  - Allen Wang
+  - Andrew D. McCulloch
+  - Kyle J. Gaulton
+  - Bing Ren
+  - Neil C. Chi
+  - Sebastian Preissl
+  publisher: Science Advances
+  date: '2021-05-14'
+  link: https://doi.org/gr2jfv
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-021-21583-9
   title: Comprehensive analysis of single cell ATAC-seq data with SnapATAC
   authors:
@@ -557,6 +327,21 @@
   link: https://doi.org/gjd74h
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1534/genetics.120.303597
+  title: 'Motto: Representing Motifs in Consensus Sequences with Minimum Information
+    Loss'
+  authors:
+  - Mengchi Wang
+  - David Wang
+  - Kai Zhang
+  - Vu Ngo
+  - Shicai Fan
+  - Wei Wang
+  publisher: Genetics
+  date: '2020-10-01'
+  link: https://doi.org/gr2jfw
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkz483
   title: Identification of DNA motifs that regulate DNA methylation
   authors:
@@ -577,6 +362,27 @@
   link: https://doi.org/ggd6hs
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/nature24993
+  title: Runx3 programs CD8+ T cell residency in non-lymphoid tissues and tumours
+  authors:
+  - J. Justin Milner
+  - Clara Toma
+  - Bingfei Yu
+  - Kai Zhang
+  - Kyla Omilusik
+  - Anthony T. Phan
+  - Dapeng Wang
+  - Adam J. Getzler
+  - Toan Nguyen
+  - Shane Crotty
+  - Wei Wang
+  - Matthew E. Pipkin
+  - Ananda W. Goldrath
+  publisher: Nature
+  date: '2017-12-06'
+  link: https://doi.org/gcm4xz
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1813565116
   title: Epigenomic analysis reveals DNA motifs regulating histone modifications in
     human and mouse
@@ -590,5 +396,143 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2019-02-12'
   link: https://doi.org/ggfb5z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkr698
+  title: Signal-induced Brd4 release from chromatin is essential for its role transition
+    from chromatin targeting to transcriptional regulation
+  authors:
+  - Nanping Ai
+  - Xiangming Hu
+  - Feng Ding
+  - Bingfei Yu
+  - Huiping Wang
+  - Xiaodong Lu
+  - Kai Zhang
+  - Yannan Li
+  - Aidong Han
+  - Wen Lin
+  - Runzhong Liu
+  - Ruichuan Chen
+  publisher: Nucleic Acids Research
+  date: '2011-09-02'
+  link: https://doi.org/dqdbbr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/database/bay017
+  title: 'Finding relevant biomedical datasets: the UC San Diego solution for the
+    bioCADDIE Retrieval Challenge'
+  authors:
+  - Wei Wei
+  - Zhanglong Ji
+  - Yupeng He
+  - Kai Zhang
+  - Yuanchi Ha
+  - Qi Li
+  - Lucila Ohno-Machado
+  publisher: Database
+  date: '2018-01-01'
+  link: https://doi.org/gr2jfx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1534/g3.118.200401
+  title: Bayesian Networks Predict Neuronal Transdifferentiation
+  authors:
+  - Richard I Ainsworth
+  - Rizi Ai
+  - Bo Ding
+  - Nan Li
+  - Kai Zhang
+  - Wei Wang
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-07-01'
+  link: https://doi.org/gr2jfz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms10812
+  title: Constructing 3D interaction maps from 1D epigenomes
+  authors:
+  - Yun Zhu
+  - Zhao Chen
+  - Kai Zhang
+  - Mengchi Wang
+  - David Medovoy
+  - John W. Whitaker
+  - Bo Ding
+  - Nan Li
+  - Lina Zheng
+  - Wei Wang
+  publisher: Nature Communications
+  date: '2016-03-10'
+  link: https://doi.org/f8c9h9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41525-019-0077-8
+  title: Integrative analysis with expanded DNA methylation data reveals common key
+    regulators and pathways in cancers
+  authors:
+  - Shicai Fan
+  - Jianxiong Tang
+  - Nan Li
+  - Ying Zhao
+  - Rizi Ai
+  - Kai Zhang
+  - Mengchi Wang
+  - Wei Du
+  - Wei Wang
+  publisher: npj Genomic Medicine
+  date: '2019-02-01'
+  link: https://doi.org/gr2jf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymeth.2010.04.005
+  title: Isolation and functional characterization of P-TEFb-associated factors that
+    control general and HIV-1 transcriptional elongation
+  authors:
+  - Ruichuan Chen
+  - Min Liu
+  - Kai Zhang
+  - Qiang Zhou
+  publisher: Methods
+  date: '2011-01-01'
+  link: https://doi.org/bzkd5q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2210991120
+  title: Integrated analysis of single-cell chromatin state and transcriptome identified
+    common vulnerability despite glioblastoma heterogeneity
+  authors:
+  - Ramya Raviram
+  - Anugraha Raman
+  - Sebastian Preissl
+  - Jiangfang Ning
+  - Shaoping Wu
+  - Tomoyuki Koga
+  - Kai Zhang
+  - Cameron W. Brennan
+  - Chenxu Zhu
+  - Jens Luebeck
+  - Kinsey Van Deynze
+  - Jee Yun Han
+  - Xiaomeng Hou
+  - Zhen Ye
+  - Anna K. Mischel
+  - Yang Eric Li
+  - Rongxin Fang
+  - Tomas Baback
+  - Joshua Mugford
+  - Claudia Z. Han
+  - Christopher K. Glass
+  - Cathy L. Barr
+  - Paul S. Mischel
+  - Vineet Bafna
+  - Laure Escoubet
+  - Bing Ren
+  - Clark C. Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-05-08'
+  link: https://doi.org/gr8ck8
+  _title: Integrated analysis of single-cell chromatin state and transcriptome identified
+    common vulnerability despite glioblastoma heterogeneity
   plugin: sources.py
   file: sources.yaml
