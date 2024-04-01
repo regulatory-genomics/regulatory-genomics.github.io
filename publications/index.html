@@ -98,9 +98,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -361,6 +361,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -442,12 +444,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Regulatory Genomics Lab</span>
+          <span class="title">Regulatory Genomics Lab</span>
         
         
-          <span>@Westlake University</span>
+          <span class="subtitle">@Westlake University</span>
         
       </span>
     
@@ -496,9 +498,14 @@
     
 
     <!-- Custom wiki link -->
-    <a href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281" data-tooltip="Public wikipedia">
+    <!--
+    <a
+      href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281"
+      data-tooltip="Public wikipedia"
+    >
       Wiki
     </a>
+    -->
 
   </nav>
 </header>
@@ -508,11 +515,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -531,40 +535,42 @@
 
 <h3 id="2024">2024</h3>
 
-<div class="citation">
-  
-    <a href="https://doi.org/gtcxf4" class="citation-image" aria-label="A fast, scalable and versatile tool for analysis of single-cell omics data">
-      <img src="https://media.springernature.com/w440/springer-static/cover-hires/journal/41592/20/12" alt="A fast, scalable and versatile tool for analysis of single-cell omics data" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a href="https://doi.org/gtcxf4" class="citation-image" aria-label="A fast, scalable and versatile tool for analysis of single-cell omics data">
+        <img src="https://media.springernature.com/w440/springer-static/cover-hires/journal/41592/20/12" alt="A fast, scalable and versatile tool for analysis of single-cell omics data" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
     
 
-    <a href="https://doi.org/gtcxf4" class="citation-title">
-      A fast, scalable and versatile tool for analysis of single-cell omics data
-    </a>
-
-    <div class="citation-authors" tabindex="0">
-      Kai Zhang, Nathan R. Zemke, Ethan J. Armand, Bing Ren
-    </div>
-
-    <div class="citation-details">
-      Nature Methods
-        ·  
-      08 Jan 2024
-        ·  
-      doi:10.1038/s41592-023-02139-9
-    </div>
-
-    
+    <div class="citation-text">
+      
       
 
+      <a href="https://doi.org/gtcxf4" class="citation-title">
+        A fast, scalable and versatile tool for analysis of single-cell omics data
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Kai Zhang, Nathan R. Zemke, Ethan J. Armand, Bing Ren
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Nature Methods</span>
+         · 
+        <span class="citation-date">08 Jan 2024</span>
+         · 
+        <span class="citation-id">doi:10.1038/s41592-023-02139-9</span>
+      </div>
+
       
-        <div class="citation-buttons">
-          
+        
+
+        
+          <div class="citation-buttons">
             
+              
 
 
 
@@ -578,8 +584,8 @@
   </div>
 
 
-          
             
+              
 
 
 
@@ -593,51 +599,54 @@
   </div>
 
 
-          
-        </div>
-      
+            
+          </div>
+        
 
+        
       
-    
+    </div>
   </div>
 </div>
 
 <h3 id="2021">2021</h3>
 
-<div class="citation">
-  
-    <a href="https://doi.org/gnh2vb" class="citation-image" aria-label="A single-cell atlas of chromatin accessibility in the human genome">
-      <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0092867420X00250-cov200h.gif" alt="A single-cell atlas of chromatin accessibility in the human genome" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a href="https://doi.org/gnh2vb" class="citation-image" aria-label="A single-cell atlas of chromatin accessibility in the human genome">
+        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0092867420X00250-cov200h.gif" alt="A single-cell atlas of chromatin accessibility in the human genome" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
     
 
-    <a href="https://doi.org/gnh2vb" class="citation-title">
-      A single-cell atlas of chromatin accessibility in the human genome
-    </a>
-
-    <div class="citation-authors" data-tooltip="Kai Zhang, James D. Hocker, Michael Miller, Xiaomeng Hou, Joshua Chiou, Olivier B. Poirion, Yunjiang Qiu, Yang E. Li, Kyle J. Gaulton, Allen Wang, Sebastian Preissl, Bing Ren " tabindex="0">
-      Kai Zhang, James D. Hocker, Michael Miller, Xiaomeng Hou, Joshua Chiou, ..., Yang E. Li, Kyle J. Gaulton, Allen Wang, Sebastian Preissl, Bing Ren
-    </div>
-
-    <div class="citation-details">
-      Cell
-        ·  
-      01 Nov 2021
-        ·  
-      doi:10.1016/j.cell.2021.10.024
-    </div>
-
-    
+    <div class="citation-text">
+      
       
 
+      <a href="https://doi.org/gnh2vb" class="citation-title">
+        A single-cell atlas of chromatin accessibility in the human genome
+      </a>
+
+      <div class="citation-authors" data-tooltip="Kai Zhang, James D. Hocker, Michael Miller, Xiaomeng Hou, Joshua Chiou, Olivier B. Poirion, Yunjiang Qiu, Yang E. Li, Kyle J. Gaulton, Allen Wang, Sebastian Preissl, Bing Ren " tabindex="0">
+        Kai Zhang, James D. Hocker, Michael Miller, Xiaomeng Hou, Joshua Chiou, …, Yang E. Li, Kyle J. Gaulton, Allen Wang, Sebastian Preissl, Bing Ren
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Cell</span>
+         · 
+        <span class="citation-date">01 Nov 2021</span>
+         · 
+        <span class="citation-id">doi:10.1016/j.cell.2021.10.024</span>
+      </div>
+
       
-        <div class="citation-buttons">
-          
+        
+
+        
+          <div class="citation-buttons">
             
+              
 
 
 
@@ -651,8 +660,8 @@
   </div>
 
 
-          
             
+              
 
 
 
@@ -666,8 +675,8 @@
   </div>
 
 
-          
             
+              
 
 
 
@@ -681,129 +690,139 @@
   </div>
 
 
-          
-        </div>
-      
+            
+          </div>
+        
 
+        
       
-    
+    </div>
   </div>
 </div>
 
 <h3 id="2019">2019</h3>
 
-<div class="citation">
-  
-    <a href="https://doi.org/gpxx3z" class="citation-image" aria-label="Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development">
-      <img src="https://www.science.org/cms/asset/7757979b-746e-490b-b3a4-c75f5f7c27d5/sciadv.2019.5.issue-3.largecover.jpg" alt="Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a href="https://doi.org/gpxx3z" class="citation-image" aria-label="Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development">
+        <img src="https://www.science.org/cms/asset/7757979b-746e-490b-b3a4-c75f5f7c27d5/sciadv.2019.5.issue-3.largecover.jpg" alt="Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
     
 
-    <a href="https://doi.org/gpxx3z" class="citation-title">
-      Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development
-    </a>
+    <div class="citation-text">
+      
+      
 
-    <div class="citation-authors" tabindex="0">
-      Kai Zhang, Mengchi Wang, Ying Zhao, Wei Wang
+      <a href="https://doi.org/gpxx3z" class="citation-title">
+        Taiji: System-level identification of key transcription factors reveals transcriptional waves in mouse embryonic development
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Kai Zhang, Mengchi Wang, Ying Zhao, Wei Wang
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Science Advances</span>
+         · 
+        <span class="citation-date">01 Mar 2019</span>
+         · 
+        <span class="citation-id">doi:10.1126/sciadv.aav3262</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
     </div>
-
-    <div class="citation-details">
-      Science Advances
-        ·  
-      01 Mar 2019
-        ·  
-      doi:10.1126/sciadv.aav3262
-    </div>
-
-    
-      
-
-      
-
-      
-    
   </div>
 </div>
 
 <h3 id="2017">2017</h3>
 
-<div class="citation">
-  
-    <a href="https://doi.org/f9twpc" class="citation-image" aria-label="Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation">
-      <img src="https://media.springernature.com/w200/springer-static/cover-hires/journal/41590/18/3" alt="Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a href="https://doi.org/f9twpc" class="citation-image" aria-label="Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation">
+        <img src="https://media.springernature.com/w200/springer-static/cover-hires/journal/41590/18/3" alt="Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
     
 
-    <a href="https://doi.org/f9twpc" class="citation-title">
-      Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation
-    </a>
+    <div class="citation-text">
+      
+      
 
-    <div class="citation-authors" data-tooltip="Bingfei Yu, Kai Zhang, J Justin Milner, Clara Toma, Runqiang Chen, James P Scott-Browne, Renata M Pereira, Shane Crotty, John T Chang, Matthew E Pipkin, Wei Wang, Ananda W Goldrath " tabindex="0">
-      Bingfei Yu, Kai Zhang, J Justin Milner, Clara Toma, Runqiang Chen, ..., Shane Crotty, John T Chang, Matthew E Pipkin, Wei Wang, Ananda W Goldrath
+      <a href="https://doi.org/f9twpc" class="citation-title">
+        Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation
+      </a>
+
+      <div class="citation-authors" data-tooltip="Bingfei Yu, Kai Zhang, J Justin Milner, Clara Toma, Runqiang Chen, James P Scott-Browne, Renata M Pereira, Shane Crotty, John T Chang, Matthew E Pipkin, Wei Wang, Ananda W Goldrath " tabindex="0">
+        Bingfei Yu, Kai Zhang, J Justin Milner, Clara Toma, Runqiang Chen, …, Shane Crotty, John T Chang, Matthew E Pipkin, Wei Wang, Ananda W Goldrath
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Nature Immunology</span>
+         · 
+        <span class="citation-date">13 Mar 2017</span>
+         · 
+        <span class="citation-id">doi:10.1038/ni.3706</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
     </div>
-
-    <div class="citation-details">
-      Nature Immunology
-        ·  
-      13 Mar 2017
-        ·  
-      doi:10.1038/ni.3706
-    </div>
-
-    
-      
-
-      
-
-      
-    
   </div>
 </div>
 
 <h3 id="2016">2016</h3>
 
-<div class="citation">
-  
-    <a href="https://doi.org/f8wq2r" class="citation-image" aria-label="Systematic identification of protein combinations mediating chromatin looping">
-      <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg" alt="Systematic identification of protein combinations mediating chromatin looping" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a href="https://doi.org/f8wq2r" class="citation-image" aria-label="Systematic identification of protein combinations mediating chromatin looping">
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg" alt="Systematic identification of protein combinations mediating chromatin looping" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
     
 
-    <a href="https://doi.org/f8wq2r" class="citation-title">
-      Systematic identification of protein combinations mediating chromatin looping
-    </a>
+    <div class="citation-text">
+      
+      
 
-    <div class="citation-authors" tabindex="0">
-      Kai Zhang, Nan Li, Richard I. Ainsworth, Wei Wang
+      <a href="https://doi.org/f8wq2r" class="citation-title">
+        Systematic identification of protein combinations mediating chromatin looping
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Kai Zhang, Nan Li, Richard I. Ainsworth, Wei Wang
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Nature Communications</span>
+         · 
+        <span class="citation-date">27 Jul 2016</span>
+         · 
+        <span class="citation-id">doi:10.1038/ncomms12249</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
     </div>
-
-    <div class="citation-details">
-      Nature Communications
-        ·  
-      27 Jul 2016
-        ·  
-      doi:10.1038/ncomms12249
-    </div>
-
-    
-      
-
-      
-
-      
-    
   </div>
 </div>
   </section>

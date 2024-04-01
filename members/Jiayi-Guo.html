@@ -98,9 +98,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -309,6 +309,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -390,12 +392,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Regulatory Genomics Lab</span>
+          <span class="title">Regulatory Genomics Lab</span>
         
         
-          <span>@Westlake University</span>
+          <span class="subtitle">@Westlake University</span>
         
       </span>
     
@@ -444,9 +446,14 @@
     
 
     <!-- Custom wiki link -->
-    <a href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281" data-tooltip="Public wikipedia">
+    <!--
+    <a
+      href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281"
+      data-tooltip="Public wikipedia"
+    >
       Wiki
     </a>
+    -->
 
   </nav>
 </header>
@@ -456,11 +463,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -506,9 +510,9 @@
 </div>
 
 
-<p>Jiayi is a final-year student at Inner Mongolia University, pursuing a major in bioengineering. His academic focus centers on Immunology, and he is an enthusiastic beginner in the field of bioinformatics.</p>
-
-<p>Outside of his studies, Jiayi enjoys spending his free time playing video games and indulging in bike rides.</p>
+<p>Jiayi was an undergraduate at Inner Mongolia University who studied Bioengineering.
+His academic focus centers on Immunology.
+Jiayi worked on benchmarking the performance of batch correction methods in single-cell data analysis.</p>
 
 
 

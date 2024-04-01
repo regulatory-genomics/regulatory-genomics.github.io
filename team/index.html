@@ -98,9 +98,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -361,6 +361,8 @@
 
   <script src="/_scripts/site-search.js"></script>
 
+  <script src="/_scripts/table-wrap.js"></script>
+
   <script src="/_scripts/tooltip.js"></script>
 
 
@@ -442,12 +444,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Regulatory Genomics Lab</span>
+          <span class="title">Regulatory Genomics Lab</span>
         
         
-          <span>@Westlake University</span>
+          <span class="subtitle">@Westlake University</span>
         
       </span>
     
@@ -496,9 +498,14 @@
     
 
     <!-- Custom wiki link -->
-    <a href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281" data-tooltip="Public wikipedia">
+    <!--
+    <a
+      href="https://regulatory-genomics.notion.site/34e8d2223b1b498ea57e3ec01da34a79?v=4eb40d9b763b4d4d9adc07273b058281"
+      data-tooltip="Public wikipedia"
+    >
       Wiki
     </a>
+    -->
 
   </nav>
 </header>
@@ -508,11 +515,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -616,6 +620,30 @@ We promote a culture of equality within our team, where each member is valued an
 </div>
 
 <div class="portrait-wrapper">
+  <a href="/members/Feiyang-Wang.html" class="portrait" data-style="" aria-label="Feiyang Wang (王飞扬)">
+    <img src="/images/photos/FeiyangWang.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Feiyang Wang (王飞扬)
+          </span>
+        
+
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-user-graduate"></i>
+            <span>Research Assistant</span>
+          </span>
+        
+      </span>
+    
+  </a>
+</div>
+
+<div class="portrait-wrapper">
   <a href="/members/Jiaqi-Fang.html" class="portrait" data-style="" aria-label="Jiaqi Fan (樊佳琪)">
     <img src="/images/photos/JiaqiFan.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
@@ -686,54 +714,6 @@ We promote a culture of equality within our team, where each member is valued an
     
   </a>
 </div>
-
-<div class="portrait-wrapper">
-  <a href="/members/Jiayi-Guo.html" class="portrait" data-style="" aria-label="Jiayi Guo (郭佳亿)">
-    <img src="/images/photos/JiayiGuo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Jiayi Guo (郭佳亿)
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>Visiting Student</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/members/Siyuan-Luo.html" class="portrait" data-style="" aria-label="Siyuan Luo (罗思圆)">
-    <img src="/images/photos/SiyuanLuo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Siyuan Luo (罗思圆)
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>Visiting Student</span>
-          </span>
-        
-      </span>
-    
-  </a>
-</div>
   </section>
 
   
@@ -772,6 +752,54 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 -->
 
 <h1 id="alumni">Alumni</h1>
+
+<div class="portrait-wrapper">
+  <a href="/members/Jiayi-Guo.html" class="portrait" data-style="small" aria-label="Jiayi Guo (郭佳亿)">
+    <img src="/images/photos/JiayiGuo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Jiayi Guo (郭佳亿)
+          </span>
+        
+
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-user-graduate"></i>
+            <span>Visiting Student</span>
+          </span>
+        
+      </span>
+    
+  </a>
+</div>
+
+<div class="portrait-wrapper">
+  <a href="/members/Siyuan-Luo.html" class="portrait" data-style="small" aria-label="Siyuan Luo (罗思圆)">
+    <img src="/images/photos/SiyuanLuo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            Siyuan Luo (罗思圆)
+          </span>
+        
+
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-user-graduate"></i>
+            <span>Visiting Student</span>
+          </span>
+        
+      </span>
+    
+  </a>
+</div>
   </section>
 
 
