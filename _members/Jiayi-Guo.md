@@ -5,8 +5,9 @@ role: visiting-student
 aliases:
   - Jiayi Guo
 links:
+group: alum
 ---
 
-Jiayi is a final-year student at Inner Mongolia University, pursuing a major in bioengineering. His academic focus centers on Immunology, and he is an enthusiastic beginner in the field of bioinformatics.
-
-Outside of his studies, Jiayi enjoys spending his free time playing video games and indulging in bike rides.
+Jiayi was an undergraduate at Inner Mongolia University who studied Bioengineering.
+His academic focus centers on Immunology.
+Jiayi worked on benchmarking the performance of batch correction methods in single-cell data analysis.

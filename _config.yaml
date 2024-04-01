@@ -29,8 +29,6 @@ defaults:
 collections:
   members:
     output: true
-  alumni:
-    output: true
   posts:
     output: true
 plugins:
