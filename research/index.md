@@ -18,7 +18,7 @@ is essential for uncovering the causal genetic and molecular mechanisms of disea
 
 {% include section.html %}
 
-### 1. Developing and applying biological foundational model to studying gene regulation.
+### 1. Developing and applying biological foundation model to studying gene regulation.
 
 {% capture text %}
 
