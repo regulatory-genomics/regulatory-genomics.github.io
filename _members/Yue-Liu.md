@@ -5,7 +5,7 @@ role: postdoc
 aliases:
   - Yue Liu
 links:
-  email: yueyueliu@hnu.edu.cn
+  email: liuyue87@westlake.edu.cn
   github: yueyueliu
 ---
 

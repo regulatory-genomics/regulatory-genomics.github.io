@@ -5,7 +5,7 @@ role: ra
 aliases:
   - Feiyang Wang
 links:
-  email: feiyang.wang2022@outlook.com
+  email: wangfeiyang@westlake.edu.cn
   github: fw0325
 ---
 
