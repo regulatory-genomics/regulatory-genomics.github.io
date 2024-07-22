@@ -33,9 +33,5 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 
 # Alumni
 
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: ra, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: visiting-scholar, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: visiting-student, group: alum" style="small" %}
+- Siyuan Luo (Visiting Student, 2024.2 -- 2024.3): PhD student at ETH Zurich
+- Jiayi Guo (Visiting Student, 2023.12 -- 2024.4)
