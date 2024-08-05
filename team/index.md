@@ -33,5 +33,6 @@ Join us today in our mission to uncover the secrets of gene regulation and make 
 
 # Alumni
 
-- Siyuan Luo (Visiting Student, 2024.2 -- 2024.3): PhD student at ETH Zurich
+- Siyuan Luo (Visiting Student, 2024.2 -- 2024.3): PhD student at ETH Zurich.
 - Jiayi Guo (Visiting Student, 2023.12 -- 2024.4)
+- Yihang Ding (Research Assistant, 2023.6 -- 2024.8): PhD student at Westlake University.
