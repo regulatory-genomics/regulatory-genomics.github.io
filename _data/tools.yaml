@@ -1,3 +1,14 @@
+- title: precellar 
+  subtitle: A data preprocessing tool for single-cell data
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/regulatory-genomics/precellar.git
+  description: Single-cell genomics preprocessing package
+
+  repo: regulatory-genomics/precellar 
+  tags:
+    - software
+
 - title: SnapATAC2
   subtitle: A Python/Rust package for single-cell epigenomics analysis
   group: featured
