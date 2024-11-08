@@ -13,13 +13,13 @@ We promote a culture of equality within our team, where each member is valued an
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filters="role == 'postdoc'" %}
-{% include list.html data="members" component="portrait" filters="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filters="role == 'undergrad'" %}
-{% include list.html data="members" component="portrait" filters="role == 'ra'" %}
-{% include list.html data="members" component="portrait" filters="role == 'visiting-scholar'" %}
-{% include list.html data="members" component="portrait" filters="role == 'visiting-student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'ra'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visiting-scholar'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visiting-student'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
