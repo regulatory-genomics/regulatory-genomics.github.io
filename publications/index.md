@@ -9,4 +9,4 @@ nav:
 
 (Click [here](all_publications) to see the list of all publications)
 
-{% include list.html data="citations" component="citation" filters="group: featured" style="rich" %}
+{% include list.html data="citations" component="citation" filter="group == 'featured'" style="rich" %}
