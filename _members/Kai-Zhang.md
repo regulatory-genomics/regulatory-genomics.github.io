@@ -1,7 +1,7 @@
 ---
 name: Kai Zhang (张垲)
 image: images/photos/KaiZhang.jpg
-role: pi
+role: principal-investigator
 aliases:
   - Kai Zhang
 links:

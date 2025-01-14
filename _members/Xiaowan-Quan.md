@@ -1,7 +1,7 @@
 ---
 name: Xiaowan Quan (权筱婉)
 image: images/photos/XiaowanQuan.jpg
-role: ra
+role: research-assistant
 aliases:
   - Xiaowan Quan
 links:

@@ -6,7 +6,7 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-rap:
+research-assistant-professor:
   icon: fa-solid fa-glasses
   description: Research Assistant Professor
 
@@ -30,7 +30,7 @@ visiting-scholar:
   icon: fa-solid fa-graduation-cap
   description: Visiting Scholar
 
-ra:
+research-assistant:
   icon: fa-solid fa-user-graduate
   description: Research Assistant
 

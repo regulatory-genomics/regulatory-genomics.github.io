@@ -1,7 +1,7 @@
 ---
 name: Juan Zhang (张娟)
 image: images/photos/JuanZhang.jpg
-role: rap
+role: research-assistant-professor
 aliases:
   - Juan Zhang
 links:

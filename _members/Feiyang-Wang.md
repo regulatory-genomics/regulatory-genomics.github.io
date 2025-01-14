@@ -1,7 +1,7 @@
 ---
 name: Feiyang Wang (王飞扬)
 image: images/photos/FeiyangWang.jpg
-role: ra
+role: research-assistant
 aliases:
   - Feiyang Wang
 links:

@@ -13,12 +13,12 @@ We promote a culture of equality within our team, where each member is valued an
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role == 'rap'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant-professor'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
-{% include list.html data="members" component="portrait" filter="role == 'ra'" %}
+{% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
 {% include list.html data="members" component="portrait" filter="role == 'visiting-scholar'" %}
 {% include list.html data="members" component="portrait" filter="role == 'visiting-student'" %}
 
