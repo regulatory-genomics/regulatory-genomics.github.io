@@ -14,6 +14,7 @@ We promote a culture of equality within our team, where each member is valued an
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'rap'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
