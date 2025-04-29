@@ -7,6 +7,7 @@ aliases:
 links:
   email: a2819355855@163.com
   github: Kuteliyafuka
+affiliation: B.S. in Bioinformatics, Soochow University
 ---
 
 Kunpeng Liu is an undergraduate student majoring in Bioinformatics at Soochow University, expected to graduate in 2025. His research interests lie in studying immune cells with multi-omics data, especially the epigenetic regulation in macrophages.

@@ -7,6 +7,7 @@ aliases:
 links:
   email: wangfeiyang@westlake.edu.cn
   github: fw0325
+affiliation: M.S. in Applied Computational Science and Engineering, Imperial College London
 ---
 
 Feiyang earned his Master's degree in Applied Computational Science and Engineering at Imperial College London in 2023,

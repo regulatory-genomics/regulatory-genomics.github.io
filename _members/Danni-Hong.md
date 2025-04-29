@@ -7,6 +7,7 @@ aliases:
 links:
   email: danninini@qq.com
   github: dhoneyi
+affiliation: Ph.D in Bioinformatics, Xiamen University 
 ---
 
 Danni Hong received her Ph.D. from School of Life Sciences at Xiamen University.

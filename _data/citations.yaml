@@ -110,6 +110,48 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1073/pnas.2410092122
+  title: Genomic analysis of progenitors in viral infection implicates glucocorticoids
+    as suppressors of plasmacytoid dendritic cell generation
+  authors:
+  - Yeara Jo
+  - Trever T. Greene
+  - Carolina Chiale
+  - Kai Zhang
+  - Ziyan Fang
+  - Simone Dallari
+  - Nuha Marooki
+  - Wei Wang
+  - Elina I. Zuniga
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-04-28'
+  link: https://doi.org/g9gxgw
+  _title: Genomic analysis of progenitors in viral infection implicates glucocorticoids
+    as suppressors of plasmacytoid dendritic cell generation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-025-08603-0
+  title: "Sensory input, sex and function shape hypothalamic\_cell\_type development"
+  authors:
+  - Harris S. Kaplan
+  - Brandon L. Logeman
+  - Kai Zhang
+  - Tate A. Yawitz
+  - Celine Santiago
+  - Noor Sohail
+  - Mustafa Talay
+  - Changwoo Seo
+  - Serhiy Naumenko
+  - Shannan J. Ho Sui
+  - David D. Ginty
+  - Bing Ren
+  - Catherine Dulac
+  publisher: Nature
+  date: '2025-03-05'
+  link: https://doi.org/g9gxfx
+  _title: Sensory input, sex and function shape hypothalamic cell type development
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-023-06824-9
   title: Single-cell analysis of chromatin accessibility in the adult mouse brain
   authors:

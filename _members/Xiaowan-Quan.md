@@ -6,6 +6,7 @@ aliases:
   - Xiaowan Quan
 links:
   email: pumpkin20211@163.com 
+affiliation: M.S. in Pathology and Pathophysiology, Southern Medical University
 ---
 
 Xiaowan Quan obtained a Master's degree in Pathology and Pathophysiology from Southern Medical University.

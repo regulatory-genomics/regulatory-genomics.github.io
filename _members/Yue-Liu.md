@@ -7,6 +7,7 @@ aliases:
 links:
   email: liuyue87@westlake.edu.cn
   github: yueyueliu
+affiliation: Ph.D in Computer Science, Hunan University
 ---
 
 Yue Liu received her Ph.D. in Computer Science and Technology from Hunan University. She has a keen interest in deep learning algorithms, particularly in the application of graph neural networks to spatial transcriptomics and DNA language modeling.

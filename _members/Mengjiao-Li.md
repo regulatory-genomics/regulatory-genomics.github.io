@@ -6,6 +6,7 @@ aliases:
   - Mengjiao Li
 links:
   email: limengjiao34@westlake.edu.cn
+affiliation: B.S. in Biology, Wuhan University
 ---
 
 Mengjiao Li got her Bachelor's degree in Biology Science from Wuhan University in 2024. Her interest lies in deciphering the wonderful cell regulatory network with computational tools, and she is passionate about exploring AI virtual cell models.

@@ -46,9 +46,12 @@
 # Other publications ######
 ###########################
 
+- id: doi:10.1073/pnas.2410092122
+  _title: Genomic analysis of progenitors in viral infection implicates glucocorticoids as suppressors of plasmacytoid dendritic cell generation
+- id: doi:10.1038/s41586-025-08603-0
+  _title: Sensory input, sex and function shape hypothalamic cell type development
 - id: doi:10.1038/s41586-023-06824-9
   _title: Single-cell analysis of chromatin accessibility in the adult mouse brain
-
 - id: doi:10.1016/j.celrep.2022.111630
   _title: Systematic discovery and functional dissection of enhancers needed for cancer cell fitness and proliferation
   image: https://www.cell.com/cms/attachment/dd685e42-1bfd-4c62-a488-48cc64b0bc04/fx1.jpg

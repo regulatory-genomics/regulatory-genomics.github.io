@@ -7,6 +7,7 @@ aliases:
 links:
   email: libocheng@westlake.edu.cn
   github: Bocheng-Li
+affiliation: B.S. in Smart Agriculture, Huazhong Agricultural University
 ---
 
 Bocheng earned his Bachelor's degree in Smart Agriculture from Huazhong Agricultural University in 2023. His research interests lie in the interdisciplinary fields of deep learning and single-cell genomics.
