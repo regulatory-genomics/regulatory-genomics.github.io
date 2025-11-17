@@ -110,6 +110,51 @@
   group: featured
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.xgen.2025.100879
+  title: Evaluating methods for the prediction of cell-type-specific enhancers in
+    the mammalian cortex
+  authors:
+  - Nelson J. Johansen
+  - Niklas Kempynck
+  - Nathan R. Zemke
+  - Saroja Somasundaram
+  - Seppe De Winter
+  - Marcus Hooper
+  - Deepanjali Dwivedi
+  - Ruchi Lohia
+  - Fabien Wehbe
+  - Bocheng Li
+  - "Darina Abaffyov\xE1"
+  - Ethan J. Armand
+  - Julie De Man
+  - "Eren Can Ek\u015Fi"
+  - Nikolai Hecker
+  - Gert Hulselmans
+  - Vasilis Konstantakos
+  - David Mauduit
+  - John K. Mich
+  - Gabriele Partel
+  - Tanya L. Daigle
+  - Boaz P. Levi
+  - Kai Zhang
+  - Yoshiaki Tanaka
+  - Jesse Gillis
+  - Jonathan T. Ting
+  - Yoav Ben-Simon
+  - Jeremy Miller
+  - Joseph R. Ecker
+  - Bing Ren
+  - Stein Aerts
+  - Ed S. Lein
+  - Bosiljka Tasic
+  - Trygve E. Bakken
+  publisher: Cell Genomics
+  date: '2025-06-01'
+  link: https://doi.org/g96m4w
+  _title: Evaluating methods for the prediction of cell-type-specific enhancers in
+    the mammalian cortex
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2410092122
   title: Genomic analysis of progenitors in viral infection implicates glucocorticoids
     as suppressors of plasmacytoid dendritic cell generation
